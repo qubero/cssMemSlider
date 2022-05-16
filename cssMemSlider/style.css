@@ -110,8 +110,8 @@ span {
 }
 
 .slider__controls label {
-  width: max(2vw, 2.5rem);
-  height: max(2vw, 2.5rem);
+  width: max(2vw, 3.125rem);
+  height: max(2vw, 3.125rem);
   cursor: pointer;
   display: flex;
   justify-content: center;
@@ -119,8 +119,8 @@ span {
 }
 
 .slider__controls label i {
-  width: max(1.5vw, 1.5rem);
-  height: max(1.5vw, 1.5rem);
+  width: max(1.875vw, 1.5rem);
+  height: max(1.875vw, 1.5rem);
   display: block;
   border-radius: 50%;
   border: 0.3rem solid var(--label-color);
