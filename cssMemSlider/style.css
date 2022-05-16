@@ -118,8 +118,8 @@ span {
 }
 
 .slider__controls label i {
-  width: max(1.5vw, 1.875rem);
-  height: max(1.5vw, 1.875rem);
+  width: max(1.5vw, 1.5rem);
+  height: max(1.5vw, 1.5rem);
   display: block;
   border-radius: 50%;
   border: 0.3rem solid var(--label-color);
@@ -199,5 +199,10 @@ span {
 
   .slider__controls {
     margin: 0;
+  }
+
+  .slider__controls label i {
+    width: max(1.5vw, 1.875rem);
+    height: max(1.5vw, 1.875rem);
   }
 }
