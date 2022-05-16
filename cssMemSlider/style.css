@@ -78,9 +78,9 @@ body {
 
 input[type='radio'] {
   position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
+  width: 0.01rem;
+  height: 0.01rem;
+  margin: -0.01rem;
   border: 0;
   padding: 0;
   white-space: nowrap;
