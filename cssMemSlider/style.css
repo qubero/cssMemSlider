@@ -190,7 +190,7 @@ span {
 
   .slider__captions {
     order: -1;
-    line-height: max(2vw, 2.5rem);
+    line-height: max(2vw, 3.125rem);
   }
 
   .slider__captions span {
